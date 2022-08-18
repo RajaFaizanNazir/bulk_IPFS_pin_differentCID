@@ -1,0 +1,43 @@
+{
+  "name": "The CockAdoodles #25",
+  "description": "6000 angry cocks coming straight at ya",
+  "image": "https://cockadoodle.mypinata.cloud/ipfs/QmQ49NVs2g7YhGCeJ74TR2HRJSmevxFLY9hJGgEKoHZKzR/25.png",
+  "dna": "423f9ec41f906a100f6493e3449997f8d068c231",
+  "edition": 25,
+  "date": 1655605109715,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Base layer",
+      "value": "BASE LAYER OG"
+    },
+    {
+      "trait_type": "Beaks",
+      "value": "BEAK 2 (OPEN MOUTH "
+    },
+    {
+      "trait_type": "Body skins",
+      "value": "SKIN 4 (PINK"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "2 (STAR TREK"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Headwear 5 (BUCKET HAT"
+    },
+    {
+      "trait_type": "Jumping jacks",
+      "value": "JJ 4 (BLUEWHITE"
+    },
+    {
+      "trait_type": "Squashed NFT",
+      "value": "4 WORLD OF WOMEN"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

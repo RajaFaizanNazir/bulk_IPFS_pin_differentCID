@@ -1,0 +1,43 @@
+{
+  "name": "The CockAdoodles #10",
+  "description": "6000 angry cocks coming straight at ya",
+  "image": "https://cockadoodle.mypinata.cloud/ipfs/QmQ49NVs2g7YhGCeJ74TR2HRJSmevxFLY9hJGgEKoHZKzR/10.png",
+  "dna": "0e559f78ade0c6bd05c8b013da286b720b8757a6",
+  "edition": 10,
+  "date": 1655605050726,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Base layer",
+      "value": "BASE LAYER OG"
+    },
+    {
+      "trait_type": "Beaks",
+      "value": "BEAK 2 (OPEN MOUTH "
+    },
+    {
+      "trait_type": "Body skins",
+      "value": "SKIN 3 (NAVY BLUE"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "4 (SKI GOGGLES"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Headwear 6 (ORIGINAL"
+    },
+    {
+      "trait_type": "Jumping jacks",
+      "value": "JJ 7 (TURQTEXTURE"
+    },
+    {
+      "trait_type": "Squashed NFT",
+      "value": "6 BIT BANDIT"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
